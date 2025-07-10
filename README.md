@@ -32,8 +32,4 @@ HTML/CSS – Web page structure and styling
 
 JavaScript – Frontend interactivity
 
-Name - Rupak Saha
-Aicte Id- STU67a0e02411aac1738596388
-Email- 23051699@gmail.com  
-ruppppak@gmail.com
 
